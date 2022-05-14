@@ -1,11 +1,13 @@
-<h1>This is the complete repository of advanced C++ During my learning Phase🔥🔥🔥🔥🚀🚀🚀</h1>
+ 
+# 100 Days of c++
+## Key Resources
+1. [w3schools](https://www.w3schools.com/python/default.asp)
+2. [tutorialspoint](https://www.tutorialspoint.com/python/index.htm)
+3. [kaggle](https://www.kaggle.com/learn/python)
+4. [programiz](https://www.programiz.com/python-programming)
 
-During my current endavour with c++, i would like to say that people think its just a simple launguage to start with only but the thing is that you dont know that the browser in which you are seeing this README file is actually working on top of C++ 😉😉😉 Dats Really CooL NA!!!
 
-“The V8 Engine which is built by Google is open source and written in C++. This engine is used inside Google Chrome. Unlike the rest of the engines, however, V8 is also used for the popular Node.js runtime” — @a_zlatkov https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e?source=social.tw
-
-For this I have used Visual Studio 2019 Community Edition.
-
+## Table of Contents
 <a href="1.welcometoc++" target="_blank">1. welcometoc++</a></br></br>
 <a href="2.HowC++Works" target="_blank">2.HowC++Works</a></br></br>
 <a href="3.howcompilerworks" target="_blank">3.howcompilerworks</a></br></br>
