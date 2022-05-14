@@ -3,7 +3,7 @@
 
 ## Rules
 
-- Code every day ###[!Important]
+- Code every day !IMPORTANT
 
 ## Benefits
 
