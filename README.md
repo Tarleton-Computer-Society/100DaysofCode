@@ -1,5 +1,7 @@
 # 100DaysofCode
 100 Days of Code is a self improvement tool, where you make a commitment to solve 1 coding problem everyday for the next 100 days.
+## Get Started 
+- Choose a topic to get started on
 
 ## Rules
 
