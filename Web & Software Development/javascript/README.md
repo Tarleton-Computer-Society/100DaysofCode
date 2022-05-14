@@ -12,18 +12,6 @@ Javascript is an excellent language for  web development and more. T. According 
 2. Get into the practice of commenting your code to explain the expected output or function. ( A programmer writes code computer understands,A good programmer writes code people understands)
 
 ## Key Resources
-1. [w3schools](https://www.w3schools.com/python/default.asp)
-2. [tutorialspoint](https://www.tutorialspoint.com/python/index.htm)
-3. [kaggle](https://www.kaggle.com/learn/python)
-4. [programiz](https://www.programiz.com/python-programming)
-## Table of Contents
-1. [Resources](./resources.md)
-2. [Git Instructions](./git.md)
-3. [Module 1: Foundational Python I](./Module1/README.md)
-4. [Module 2: Foundational Python II](./Module2/README.md)
-5. [Module 3: Automation with Python](./Module3/README.md)
-6. [Module 4: Working with Data](./Module4/README.md)
-7. [Module 5: Introduction to Data Science with Python](./Module5/README.md)
-8. [Module 6: Web Development with Python](./Module6/README.md)
-9. [Module 7: Advanced Python Techniques](./Module7/README.md)
-10. [Module 8: Capstone Project](./Module8/README.md)
+1. [w3schools](https://www.w3schools.com/js/)
+2. [tutorialspoint](https://www.tutorialspoint.com/javascript/index.htm)
+3. [programiz](https://www.programiz.com/javascript)
