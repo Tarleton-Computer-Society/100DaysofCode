@@ -15,7 +15,10 @@
 * You’ll greatly diminish your fear of starting a new coding project. It will become a natural, ordinary thing to do.
 * You’ll have a good reason to stop procrastinating and start coding every day.
 
-
+## Key Resources
+1. [w3schools](https://www.w3schools.com/)
+2. [tutorialspoint](https://www.tutorialspoint.com/)
+3. [programiz](https://www.programiz.com/)
 
 
 - If you are stuck on a problem, you can contact  [teddy](https://github.com/teddyoweh) 
