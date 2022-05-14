@@ -1,0 +1,12 @@
+pytest
+pandas
+numpy
+matplotlib
+seaborn
+python-pptx
+pyautogui
+twitter
+requests
+bs4
+pillow
+slackclient

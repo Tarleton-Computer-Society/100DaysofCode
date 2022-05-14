@@ -1,0 +1,5 @@
+.idea*
+.vscode*
+*.log
+.pytest_cache
+credentials.txt
