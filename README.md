@@ -16,4 +16,4 @@
 
 
 
-- If you are stuck on a problem, you can  message  [teddy](mail:teddy@teddyoweh.com) 
+- If you are stuck on a problem, you can contact  [teddy](https://github.com/teddyoweh) 
