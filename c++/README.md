@@ -1,8 +1,8 @@
  
 # 100 Days of c++
 ## Key Resources
-1. [w3schools](https://www.w3schools.com/python/default.asp)
-2. [tutorialspoint](https://www.tutorialspoint.com/python/index.htm)
+1. [w3schools](https://www.w3schools.com/CPP/cpp_getstarted.asp)
+2. [tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)
 3. [kaggle](https://www.kaggle.com/learn/python)
 4. [programiz](https://www.programiz.com/python-programming)
 
