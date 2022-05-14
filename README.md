@@ -3,7 +3,7 @@
 
 ## Rules
 
-- Solve 1 problem every day
+- Code every day (!Important)
 
 ## Benefits
 
