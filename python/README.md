@@ -11,6 +11,11 @@ Python is an excellent language for software development, web development, autom
 
 3. Get into the practice of commenting your code to explain the expected output or function.
 
+## Key Resources
+1. [w3schools](https://www.w3schools.com/python/default.asp)
+2. [tutorialspoint](https://www.tutorialspoint.com/python/index.htm)
+3. [kaggle](https://www.kaggle.com/learn/python)
+4. [programiz](https://www.programiz.com/python-programming)
 ## Table of Contents
 1. [Resources](./resources.md)
 2. [Git Instructions](./git.md)
