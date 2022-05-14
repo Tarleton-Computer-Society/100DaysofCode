@@ -1,7 +1,7 @@
  
 # 100 Days of c++
 ## Online Compiler
-[compiler](https://www.onlinegdb.com/online_c++_compiler)
+[Compiler](https://www.onlinegdb.com/online_c++_compiler)
 ## Key Resources
 1. [w3schools](https://www.w3schools.com/CPP/cpp_getstarted.asp)
 2. [tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)
