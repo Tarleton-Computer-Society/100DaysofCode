@@ -16,9 +16,12 @@
 * You’ll have a good reason to stop procrastinating and start coding every day.
 
 ## Key Resources
-1. [w3schools](https://www.w3schools.com/)
-2. [tutorialspoint](https://www.tutorialspoint.com/)
-3. [programiz](https://www.programiz.com/)
-
+1. [w3schools](https://www.w3schools.com/) Python, PHP, C++ C, Java, HTML, CSS, Javascript 
+2. [tutorialspoint](https://www.tutorialspoint.com/) Python, PHP, C++ C, Java, HTML, CSS, Javascript 
+3. [programiz](https://www.programiz.com/) Python, PHP, C++ C, Java, HTML, CSS, Javascript 
+4. [leetcode](https://leetcode.com/) Algorithms Solving
+5. [codewars](https://www.codewars.com/) Algorithms Solving
+6. [programiz](https://www.programiz.com/dsa)  Algorithmn and  Datastructures 
 
 - If you are stuck on a problem, you can contact  [teddy](https://github.com/teddyoweh) 
+
