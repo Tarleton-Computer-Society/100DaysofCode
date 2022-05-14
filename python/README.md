@@ -1,11 +1,7 @@
-# _Under Development_
-This course is currently under development. I am currently pursuing my Executive MBA, so I will develop more lessions when I have time. By the end of Module 3, you will me more than competent to continue learning in your own direction.
 
 # 100 Days of Python
-This exercise is based off the [100 Days of Code framework](https://www.100daysofcode.com/) to teach the basics of python 3. Legacy python will be [deprecated on Jan 1, 2020](https://pythonclock.org/); therefore, this course will be based off the latest version of python.
 
-## Why 100 Days of Code?
-You first need to ask yourself why you want to learn python. Are you looking for a career change or to strengthen your current prospects? Is it because [Glassdoor](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) has ranked Data Scientist as the best job in America since 2016? Along that line, what avenue of programming are you interested? In order to succeed at completing this program, you first need to understand why you want to do it.
+
 
 Python is an excellent language for software development, web development, automation, data engineering, data analytics, data science, and more. The 100 Days of Code framework is meant to instill a new habit while simultaneously accomplishing your goal. According to a study published in the [_European Journal of Social Psychology_](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674), it takes 66 days on average to start a new habit. The technical fields change extremely rapidly; therefore, it is critical to form the habit of continual learning if you wish to succeed as a programmer. Good luck on your learning journey.
 
