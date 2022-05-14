@@ -9,7 +9,7 @@ Python is an excellent language for software development, web development, autom
 1. Use these [GitHub instructions](./git.md) to learn how to fork the GitHub repo into your own account and how to add git functionality with your IDE.
 2. The exercise is segmented in to seven modules that each span 2 weeks. You should expect to spend _One Hour_ each day on average.
 
-3. Get into the practice of commenting your code to explain the expected output or function.
+3. Get into the practice of commenting your code to explain the expected output or function. ( A programmer writes code computer understands,A good programmer writes code people understands)
 
 ## Key Resources
 1. [w3schools](https://www.w3schools.com/python/default.asp)
