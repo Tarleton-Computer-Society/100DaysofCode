@@ -5,15 +5,11 @@
   ii. [Google](https://www.google.com/): The _**ACTUAL**_ Google for the Programmer
 3. [Medium Tech articles](https://www.medium.com/topic/programming)
 4. [r/python](https://www.reddit.com/r/python)
-5. Podcasts:  
-  i. [Talk Python to Me](https://talkpython.fm/)  
-  ii. [Python Bytes](https://pythonbytes.fm/)  
-  iii. [Test and Code](https://testandcode.com/)  
-  iv. [Super Data Science Podcast](https://www.superdatascience.com/podcast/)  
-  v. [Python.\_\_init\_\_](https://www.pythonpodcast.com/)  
-  vi. [Import This](https://www.kennethreitz.org/import-this/)
-
-# Datasets
+5. [w3schools](https://www.w3schools.com/python/default.asp)
+6. [tutorialspoint](https://www.tutorialspoint.com/python/index.htm)
+7. [kaggle](https://www.kaggle.com/learn/python)
+8. [programiz](https://www.programiz.com/python-programming)
+# Datasets for Data Science & Machine Learning
 There are a substantial number of locations online to obtain datasets. These vary in complexity, but can be excellent resources for learning new techniques or creating new programs without needing to use company data. Here are ten places with readily available datasets.
 1. Federal Governments:  
   i. [USA](https://catalog.data.gov/dataset)  
