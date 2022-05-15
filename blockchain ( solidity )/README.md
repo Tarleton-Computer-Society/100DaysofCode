@@ -2,7 +2,7 @@
 The companion to the Youtube tutorials
 ## Game to Learn Solidity
 [cryptozombies](https://cryptozombies.io/)
-### Videos
+### Table of Content
 
 - [Learning Solidity : Tutorial 1 The Basics](./tutorial-01/)
 - [Learning Solidity : Tutorial 2 Inheritance](./tutorial-02/)
